@@ -1,12 +1,10 @@
 import java.util.*;
-import java.io.*;
-import java.math.*;
 
-class Solution {
+class loop2 {
     public static void main(String[] argh) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();
-        Solution sol = new Solution();
+        loop2 sol = new loop2();
         for (int i = 0; i < t; i++) {
             int a = in.nextInt();
             int b = in.nextInt();
